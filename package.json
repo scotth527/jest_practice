@@ -1,0 +1,16 @@
+{
+  "name": "jest_practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sum.js",
+  "dependencies": {
+    "jest": "^24.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest",
+    "watch":"jest --watch *.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
